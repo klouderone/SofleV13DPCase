@@ -20,6 +20,7 @@ Top Z distance = .2mm
 
 Bottom Z distance = .2mm
 
+
 ![Sofle V1 Case Shot 6](https://github.com/klouderone/SofleV13DPCase/assets/136342173/adb38035-3204-42ce-b35c-4b3358841a1a)
 ![Sofle V1 Case Shot 2](https://github.com/klouderone/SofleV13DPCase/assets/136342173/8ae979c6-1fcc-40b2-96d8-79bce5dbabd2)
 ![Sofle V1 Case Shot 4](https://github.com/klouderone/SofleV13DPCase/assets/136342173/822c0459-2783-4f7f-a05b-989aaf95eb6b)
