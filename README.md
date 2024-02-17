@@ -7,11 +7,17 @@ Printed with ESun PLA+ on a Bambu Lab X1C with a .4mm nozzle. I found the 1.6mm 
 ## Settings:
 
 Layer Height = .08mm
+
 Wall Loops = 3
+
 Infill = 15% Grid
+
 Support = Yes
+
 Support Type = Normal
+
 Top Z distance = .2mm
+
 Bottom Z distance = .2mm
 
 ![Sofle V1 Case Shot 6](https://github.com/klouderone/SofleV13DPCase/assets/136342173/adb38035-3204-42ce-b35c-4b3358841a1a)
