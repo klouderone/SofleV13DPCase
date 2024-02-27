@@ -26,6 +26,7 @@ Bottom Z distance = .2mm
 
 
 ![Sofle V1 Case Shot 6](https://github.com/klouderone/SofleV13DPCase/assets/136342173/adb38035-3204-42ce-b35c-4b3358841a1a)
+![Sofle V1 Case Shot 6](https://github.com/klouderone/SofleV13DPCase/assets/136342173/20632432-d3e7-44a5-8284-c36dc2211b12)
 ![Sofle V1 Case Shot 2](https://github.com/klouderone/SofleV13DPCase/assets/136342173/8ae979c6-1fcc-40b2-96d8-79bce5dbabd2)
 ![Sofle V1 Case Shot 4](https://github.com/klouderone/SofleV13DPCase/assets/136342173/822c0459-2783-4f7f-a05b-989aaf95eb6b)
 ![Sofle V1 Case Shot 3](https://github.com/klouderone/SofleV13DPCase/assets/136342173/48dcbba9-8451-46b5-b866-a455e82f2fe5)
